@@ -1,4 +1,4 @@
-<h1>Hey there I'm Max a Juniro Full Stack Developer 👋 </h1>
+<h1>Hey there I'm Max a Junior Full Stack Developer 👋 </h1>
 
 - 💼 Check my <a href="https://mxh.netlify.app/" target="_blank">portfolio</a>
 - 💻 I’m work with HTML, CSS, SASS/SCSS, JavaScript, MongoDB, Express.js, Node.js.
