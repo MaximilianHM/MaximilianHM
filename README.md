@@ -1,7 +1,7 @@
 <h1>Hey there I'm Max a Junior Full Stack Developer 👋 </h1>
 
 - 💼 Check my <a href="https://mxh.netlify.app/" target="_blank">portfolio</a>
-- 💻 I’m work with HTML, CSS, SASS/SCSS, JavaScript, MongoDB, Express.js, Node.js.
+
 
 
 
@@ -28,7 +28,7 @@
   <img align="center" alt="Max-HEROKU" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   
 </div>
-  ##
+
 <h2>Get in touch:</h2>
 
   <a href="https://mxh.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
