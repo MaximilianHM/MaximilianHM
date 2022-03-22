@@ -3,7 +3,18 @@
 - 💼 Check my <a href="https://mxh.netlify.app/" target="_blank">portfolio</a>
 - 💻 I’m work with HTML, CSS, SASS/SCSS, JavaScript, MongoDB, Express.js, Node.js.
 
-<h2> Tech knowledge </h2>
+
+
+##
+<div align="center">
+  <a href="https://github.com/MaximilianHM">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaximilianHM&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianHM&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
+  
+##
+  
+  <h2> Tech knowledge </h2>
 <div>
   <img align="center" alt="Max-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="Max-SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
@@ -17,15 +28,7 @@
   <img align="center" alt="Max-HEROKU" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   
 </div>
-
-##
-<div align="center">
-  <a href="https://github.com/MaximilianHM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaximilianHM&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianHM&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
-  
-##
+  ##
 <h2>Get in touch:</h2>
 
   <a href="https://mxh.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
