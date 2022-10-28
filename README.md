@@ -1,4 +1,4 @@
-<h1>Hey there I'm Max a Front-end Developer 👋 </h1>
+<h1>Hey there I'm Max a Frontend Developer 👋 </h1>
 
 - 💼 Check my <a href="https://mxh.netlify.app/" target="_blank">portfolio</a>
 
